@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sam Radhakrishnan
+name: Anaswara Vijayan
 
 # Short bio or description (displayed in the header)
-description: Developer based in Berlin
+description: Data Analyst based in Berlin
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/6648290
@@ -25,7 +25,7 @@ footer-links:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://sam09.github.io
+url: http://anaswara.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
