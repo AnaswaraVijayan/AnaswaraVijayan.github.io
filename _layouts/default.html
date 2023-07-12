@@ -26,17 +26,12 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/public">Talks</a>
-          </nav>
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+      {% include about.md %}
     </div>
 
     <div class="wrapper-footer">
