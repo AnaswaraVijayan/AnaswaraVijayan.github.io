@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /index
+permalink: /index/
 ---
 
 I am a data analyst iving in Berlin. I currently work Python, SQL and Tableau using them to solve real world machine learning problems. In the past I worked with Ernst & Young(E&Y) as a Tax Analyst. As a tax analyst, I gained valuable experience in analyzing finanacial data, identifying patterns and generating reports to support tax compliance and planning. This role enhanced my analytical skills and attention to detail. It enhanced my analytical skills as well as fostered my ability to work with strict deadlines. I recently tranistion to the field of data analytics seeking a new challenge. 
